@@ -31,6 +31,25 @@ img {
   max-width: 50%;
 }
 
+.icon {
+  width: 32px;
+  height: 32px;
+}
+
+.hidden {
+  display: none;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
 /* HEADER */
 .header {
   display: flex;
